@@ -49,7 +49,7 @@ Cabe resaltar que en este entorno envfirmasfinal ya se encuentran instaladas los
 
 # Dataset
   El dataset utilizado SigWiComp2011(ICDAR2011) se encuentra disponible para su descarga en la siguiente link:
-  TC11
+  - TC11
   http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2011_Signature_Verification_Competition_(SigComp2011)
-  Kaggle
+  - Kaggle
   https://www.kaggle.com/datasets/robinreni/signature-verification-dataset
