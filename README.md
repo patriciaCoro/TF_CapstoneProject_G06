@@ -29,5 +29,8 @@ conda env create -f envfirmasfinal.yml
   ``` 
 
 # Dataset
-  El dataset utilizado SigWiComp2011(ICDAR2011) se enecuntra disponible para su descarga en la siguiente link: 
+  El dataset utilizado SigWiComp2011(ICDAR2011) se encuentra disponible para su descarga en la siguiente link:
+  TC11
+  http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2011_Signature_Verification_Competition_(SigComp2011)
+  Kaggle
   https://www.kaggle.com/datasets/robinreni/signature-verification-dataset
