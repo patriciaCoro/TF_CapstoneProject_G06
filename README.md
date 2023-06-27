@@ -10,9 +10,9 @@
 - Pedro Shiguihara Juarez
 
 # Requisitos técnicos
-Gestor de entorno miniconda
-Python 3.11.3 
-Jupyter notebook
+- Gestor de entorno miniconda
+- Python 3.11.3 
+- Jupyter notebook
 
 # Pasos
 
